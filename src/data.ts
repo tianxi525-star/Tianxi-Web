@@ -28,7 +28,7 @@ export const PROJECTS_DATA: Project[] = [
     gradient: "from-purple-950 via-neutral-900 to-indigo-950/20",
     glowColor: "rgba(168, 85, 247, 0.15)",
     coverImage: "https://i.postimg.cc/xdZcCrNd/1-ku-xue2026.jpg",
-    albumUrl: "https://v.alltuu.com/"
+    albumUrl: "https://m.alltuu.com/album/576f925cc0a926d00d23789e8d5cf1c8/?menu=live"
   },
   {
     id: "case-02",
@@ -43,7 +43,7 @@ export const PROJECTS_DATA: Project[] = [
     gradient: "from-neutral-950 via-zinc-900 to-slate-900",
     glowColor: "rgba(148, 163, 184, 0.12)",
     coverImage: "https://i.postimg.cc/j202HzhX/2-ku-xue2024.jpg",
-    albumUrl: "https://v.alltuu.com/"
+    albumUrl: "https://live.photoplus.cn/live/pc/25652653/#/live"
   },
   {
     id: "case-03",
@@ -58,7 +58,7 @@ export const PROJECTS_DATA: Project[] = [
     gradient: "from-zinc-950 via-neutral-950 to-stone-900/30",
     glowColor: "rgba(120, 113, 108, 0.15)",
     coverImage: "https://i.postimg.cc/mZyBpfZt/3-dong-fang-zheng-quan2023.jpg",
-    albumUrl: "https://v.alltuu.com/"
+    albumUrl: "https://live.jimage.cn/g/6hmhkocc?from=groupmessage"
   },
   {
     id: "case-04",
@@ -73,7 +73,7 @@ export const PROJECTS_DATA: Project[] = [
     gradient: "from-neutral-950 via-slate-900 to-zinc-900",
     glowColor: "rgba(56, 189, 248, 0.12)",
     coverImage: "https://i.postimg.cc/GmHRp4Fb/4-di-wu-jie-CPC.jpg",
-    albumUrl: "https://v.alltuu.com/"
+    albumUrl: "https://live.jimage.cn/g/9b7hdfs9"
   },
   {
     id: "case-05",
@@ -88,7 +88,7 @@ export const PROJECTS_DATA: Project[] = [
     gradient: "from-stone-950 via-amber-950/20 to-neutral-900",
     glowColor: "rgba(245, 158, 11, 0.1)",
     coverImage: "https://i.postimg.cc/dVpYZJ6k/5-ai-en-mo-er-ha-er-bin-zhan.jpg",
-    albumUrl: "https://v.alltuu.com/"
+    albumUrl: "https://live.photoplus.cn/live/pc/78565450/#/live"
   },
   {
     id: "case-06",
@@ -103,7 +103,7 @@ export const PROJECTS_DATA: Project[] = [
     gradient: "from-stone-950 via-zinc-900 to-emerald-950/10",
     glowColor: "rgba(16, 185, 129, 0.08)",
     coverImage: "https://i.postimg.cc/HWNRqWNT/6-ai-en-mo-er-cheng-dou-zhan-1.jpg",
-    albumUrl: "https://v.alltuu.com/"
+    albumUrl: "https://www.yipai360.com/photolivepc/?orderId=202310201632438645&channel=h5&origin=qrcode"
   },
   {
     id: "case-07",
@@ -118,7 +118,7 @@ export const PROJECTS_DATA: Project[] = [
     gradient: "from-neutral-950 via-violet-950/20 to-neutral-900",
     glowColor: "rgba(168, 85, 247, 0.12)",
     coverImage: "https://i.postimg.cc/FRg563vt/7-ben-liu.png",
-    albumUrl: "https://v.alltuu.com/"
+    albumUrl: "https://m.alltuu.com/album/2025051553/?menu=live"
   },
   {
     id: "case-08",
@@ -133,7 +133,7 @@ export const PROJECTS_DATA: Project[] = [
     gradient: "from-neutral-950 via-slate-950 to-cyan-950/20",
     glowColor: "rgba(6, 182, 212, 0.15)",
     coverImage: "https://i.postimg.cc/QNmZkQSD/8-ri-qing-fang-shi-zhou-nian.jpg",
-    albumUrl: "https://v.alltuu.com/"
+    albumUrl: "https://live.photoplus.cn/live/pc/64180747/#/live"
   }
 ];
 
