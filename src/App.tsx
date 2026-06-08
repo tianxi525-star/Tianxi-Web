@@ -302,7 +302,7 @@ export default function App() {
             <div className="absolute inset-0 scanline-overlay opacity-[0.12] pointer-events-none" />
             <div className="absolute top-[40%] left-[25%] w-[60vw] h-[60vw] bg-purple-600/10 rounded-full blur-[150px] pointer-events-none animate-pulse" style={{ animationDuration: '4s' }} />
             
-            <div className="relative flex flex-col items-center max-w-md px-6 text-center">
+            <div className="relative flex flex-col items-center max-w-md px-6 text-center -translate-y-14 sm:translate-y-0">
               <motion.div
                 initial={{ opacity: 0, letterSpacing: "0.2em", y: 15 }}
                 animate={{ opacity: 1, letterSpacing: "0.6em", y: 0 }}
