@@ -671,20 +671,6 @@ export default function App() {
                       </div>
                     </div>
 
-                    {/* CODEX */}
-                    <div className="group/skill">
-                      <div className="flex justify-between items-center mb-1.5">
-                        <div className="flex items-center gap-2.5">
-                          <Code2 className="w-4 h-4 text-purple-400" />
-                          <span className="text-xs sm:text-[13px] text-neutral-200 group-hover/skill:text-white font-medium transition-colors font-mono">CODEX</span>
-                        </div>
-                        <span className="text-[10px] font-mono text-purple-400 font-semibold">75%</span>
-                      </div>
-                      <div className="h-[3px] bg-white/5 rounded-full overflow-hidden relative">
-                        <div className="absolute top-0 bottom-0 left-0 bg-gradient-to-r from-purple-500 to-fuchsia-400 rounded-full shadow-[0_0_8px_rgba(168,85,247,0.5)]" style={{ width: "75%" }} />
-                      </div>
-                    </div>
-
                     {/* MIDJOURNEY */}
                     <div className="group/skill">
                       <div className="flex justify-between items-center mb-1.5">
