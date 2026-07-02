@@ -1265,14 +1265,7 @@ export default function App() {
 期待与你共同完成下一次值得被记住的相遇。`}
               </p>
 
-              {/* Status active banner */}
-              <div className="inline-flex items-center gap-3 px-4 py-2 rounded-xl bg-white/5 border border-white/10">
-                <div className="relative flex h-2 w-2">
-                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-                  <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
-                </div>
-                <span className="font-mono text-[10px] tracking-widest text-[#ccc] uppercase">NOW ACCEPTING SPATIAL PROPOSALS AD 2026</span>
-              </div>
+
             </div>
 
             {/* Premium Outreach Terminal (Right side Interactive cards with Copy Triggers) */}
